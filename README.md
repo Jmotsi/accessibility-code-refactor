@@ -12,7 +12,7 @@ N/A
 
 Screenshot of the website
 
-![Screenshot](../assets/images/horiseon.jpg)
+![Screenshot](horiseon.jpg)
 
 ## License
 
