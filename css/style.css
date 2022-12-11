@@ -17,7 +17,7 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-/*// This code sets the display, font-size, and color of the h1 element//*/
+/*// This code sets the display, font-size, and color of the header h1 element//*/
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -100,121 +100,42 @@ p {
     background-color: #2589bd;
 }
 
-/*// This code sets the margin-bottom, color, and font-family of the .benefit-lead class//*/
-.benefit-lead {
+/*// This code sets the margin-bottom, color, and font-family of the .benefit-lead, .benefit-brand and .benefit-cost class//*/
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/*// This code sets the margin-bottom, color, and font-family of the .benefit-brand class//*/
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/*// This code sets the margin-bottom, color, and font-family of the .benefit-cost class//*/
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/*// This code sets the margin-bottom and text-align, of the h3 element in the .benefit-lead class//*/
-.benefit-lead h2 {
+/*// This code sets the margin-bottom and text-align, of the h2 element in the .benefit-lead, .benefit-brand and .benefit-cost h2 class//*/
+.benefit-lead h2, .benefit-brand h2, .benefit-cost h2 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*// This code sets the margin-bottom and text-align, of the h3 element in the .benefit-brand class//*/
-.benefit-brand h2 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/*// This code sets the margin-bottom and text-align, of the h3 element in the .benefit-cost class//*/
-.benefit-cost h2 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-/*// This code sets the display to block, margin 10 pixels and auto and the max wdith 150px for the img in benefit-lead class.//*/
-.benefit-lead img {
+/*// This code sets the display to block, margin 10 pixels and auto and the max wdith 150px for the img in the classes selected.//*/
+.benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/*// This code sets the display to block, margin 10 pixels and auto and the max wdith 150px for the img in benefit-brand class.//*/
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/*// This code sets the display to block, margin 10 pixels and auto and the max wdith 150px for the img in benefit-cost class.//*/
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/*// This code sets the margin-bottom, padding, height, font-family, background-color and color in the search-engine-optimization class .//*/
-.search-engine-optimization {
+/*// This code sets the margin-bottom, padding, height, font-family, background-color and color in the selected classes .//*/
+.search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
-/*// This code sets the margin-bottom, padding, height, font-family, background-color and color in the online-reputation-management class .//*/
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/*// This code sets the margin-bottom, padding, height, font-family, background-color and color in the social-media-marketing class .//*/
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/*// This code sets the search-engine-optimization img max-height to 200 pixels.//*/
-.search-engine-optimization img {
+/*// This code sets the selected classes img max-height to 200 pixels.//*/
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
 
-/*// This code sets the online-reputation-management img max-height to 200 pixels.//*/
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/*// This code sets the social-media-marketing img max-height to 200 pixels.//*/
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-/*//this code sets the search-engine-optimization h2 margin-bottom to 20 pixels and the font size to 36 pixels//*/
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/*//this code sets the online-reputation-management h2 margin-bottom to 20 pixels and the font size to 36 pixels//*/
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/*//this code sets the social-media-marketing h2 margin-bottom to 20 pixels and the font size to 36 pixels//*/
-.social-media-marketing h2 {
+/*//this code sets the selected classes h2 margin-bottom to 20 pixels and the font size to 36 pixels//*/
+.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
