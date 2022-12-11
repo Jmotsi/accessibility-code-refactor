@@ -12,7 +12,7 @@ N/A
 
 Screenshot of the website
 
-![Screenshot](horiseon.jpg)
+![Screenshot](https://raw.githubusercontent.com/Jmotsi/accessibility-code-refactor/main/assets/images/horiseon.JPG)
 
 ## License
 
