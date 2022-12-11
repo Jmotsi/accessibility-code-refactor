@@ -12,6 +12,8 @@ N/A
 
 Screenshot of the website
 
+website link - https://jmotsi.github.io/accessibility-code-refactor/
+
 ![Screenshot](https://raw.githubusercontent.com/Jmotsi/accessibility-code-refactor/main/assets/images/horiseon.JPG)
 
 ## License
